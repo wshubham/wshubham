@@ -49,7 +49,7 @@ list = [car for car in cars if "a" in car]
 
 <details>
 <summary> GitHub Stats</summary>
-<img align="left" alt="Shubham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swaghe&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="left" alt="Shubham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaghe&layout=compact" />
+<img align="left" alt="Shubham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wshubham&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Shubham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wshubham&layout=compact" />
 
 </details>
