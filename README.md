@@ -5,7 +5,7 @@
 
  👨‍💻 &nbsp; Software Engineer </br> 
  🎒 &nbsp; MSCS Student at [NC State University](https://www.ncsu.edu), Raleigh, NC, USA 🇺🇸  </br>
- 👨‍🎓 &nbsp; Computer Science Undergrad from [Jabalpur Engineering College](https://www.jecjabalpur.ac.in/), India 🇮🇳 </br>
+ 👨‍🎓 &nbsp; Computer Science Undergrad from [Jabalpur Engineering College](https://www.jecjabalpur.ac.in/), MP, India 🇮🇳 </br>
 
 
 ### Welcome to my page!!!
@@ -13,10 +13,9 @@
 - I love to code, design and try out new challenging things. </br>
 - Possess industrial experience in developing microservices. </br>
 - Connect with me any time and start discussion on any hot topic in tech </br>
-- Currently enrolled in CSC-519, excited to do a lot of cool Devops stuff 😉 </br>
+- Currently enrolled in CSC519, excited for a lot of cool Devops stuff 😉 </br>
 - you either automate or get replaced by it. 
- </br>
-  </br>
+  
 ### My favorite code snippet. : 
 Code Before:
 ``` python
