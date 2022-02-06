@@ -5,7 +5,7 @@
 
  👨‍💻 &nbsp; Software Engineer </br> 
  🎒 &nbsp; MSCS Student at [NC State University](https://www.ncsu.edu), Raleigh, NC, USA 🇺🇸  </br>
- 👨‍🎓 &nbsp; Computer Science Undergrad from [Jabalpur Engineering College](https://www.jecjabalpur.ac.in/), MP, India 🇮🇳 </br>
+ 👨‍🎓 &nbsp; Computer Science Undergrad from [JEC](https://www.jecjabalpur.ac.in/), MP, India 🇮🇳 </br>
 
 
 ### Welcome to my page!!!
